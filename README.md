@@ -1,8 +1,6 @@
 
 
-[Dashboard](https://github.com/Chatterjee18/AtliQ-Hospitality-Analysis/blob/b522210341792a592a583582a7ef631bca3d8122/AtliQ%20Hospitality%20Analysis.pdf)
-
-Live Dashboard --- [Power BI](https://app.powerbi.com/groups/me/reports/41782a70-1841-4670-b096-92763a511ae1/34c71cfc0c8045a3831a?experience=power-bi)
+Live Dashboard --- [Link](https://app.powerbi.com/groups/me/reports/41782a70-1841-4670-b096-92763a511ae1/34c71cfc0c8045a3831a?experience=power-bi)
 
 # AtliQ Hospitality Analysis
 
@@ -52,5 +50,15 @@ This analysis provides actionable insights to improve operational efficiency, en
 - **Power BI Desktop**
 - **DAX Calculations**
 - **SQL (for data preparation)**
+
+  # Data Model
+  ![Screenshot 2025-01-12 200409](https://github.com/user-attachments/assets/85bf41cd-4b6a-4bb0-bd12-aec669de9875)
+
+# Dashboard
+![AtliQ Hospitality Analysis_page-0001](https://github.com/user-attachments/assets/bb0d85fc-aaac-48c7-bba2-6e10b6badef1)
+![AtliQ Hospitality Analysis_page-0002](https://github.com/user-attachments/assets/0f347bfe-7b24-4c72-aeb3-c2356be95329)
+![AtliQ Hospitality Analysis_page-0003](https://github.com/user-attachments/assets/80e9a0cc-6220-4657-8597-53f04db47a42)
+![AtliQ Hospitality Analysis_page-0004](https://github.com/user-attachments/assets/90e7a2d9-e169-46ba-a3b4-b7513bb8d451)
+![AtliQ Hospitality Analysis_page-0005](https://github.com/user-attachments/assets/21bc45c4-83ba-4ef4-bc07-33bf94a78a8b)
 
 
